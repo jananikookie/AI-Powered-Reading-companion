@@ -1,4 +1,3 @@
-# ai-reading-companion-project
 # AI Reading Companion
 
 ## Overview
