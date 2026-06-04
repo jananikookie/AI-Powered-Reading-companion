@@ -1,11 +1,11 @@
-## AI Reading Companion
-# Overview:
+# AI Reading Companion
+## Overview:
 AI-Powered Reading Companion is a web-based application developed using Python and Flask that helps users read and understand digital documents more effectively. The system allows users to upload documents, extracts text from them, and provides multiple AI-based features to improve comprehension and learning.
 
 It integrates Natural Language Processing techniques to offer functionalities such as text summarization, language translation, text-to-speech conversion, vocabulary assistance,and MCQ generation. These features make reading more interactive, accessible, and learner-friendly.
 This project is designed to assist students and learners by simplifying complex content and improving engagement with digital reading materials.
 
-# Features:
+## Features:
 -Document text extraction from uploaded files
 -Text summarization
 -Language translation
@@ -13,7 +13,7 @@ This project is designed to assist students and learners by simplifying complex 
 -Vocabulary assistance
 -Automatic MCQ generation from content
 
-# Technologies Used:
+## Technologies Used:
 -Python
 -Flask
 -HTML
@@ -21,7 +21,7 @@ This project is designed to assist students and learners by simplifying complex 
 -JSON
 -NLP concepts
 
-# Project Structure
+## Project Structure
 
 * app.py
 * dataset/
@@ -35,7 +35,7 @@ This project is designed to assist students and learners by simplifying complex 
 * .gitignore
 
 
-# How to Run
+## How to Run
 
 -Install Python (3.x) and ensure it is added to system PATH
 -Open terminal or command prompt in the project folder
@@ -46,15 +46,17 @@ This project is designed to assist students and learners by simplifying complex 
 -Open a browser and go to http://127.0.0.1:5000/
 -Upload a document and use the available features of the application
 
-# Future Enhancements
+## Future Enhancements
 -Support for additional document formats such as PDF and DOCX
 -Improved AI-based summarization accuracy
 -Advanced MCQ generation using better NLP models
 -User authentication and document history tracking
 -Enhanced user interface and experience
 
-# Author
+## Author
 Janani
+
+
 
 
 
