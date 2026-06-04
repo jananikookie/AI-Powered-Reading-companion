@@ -51,11 +51,11 @@ This project is designed to assist students and learners by simplifying complex 
 
 ## Future Enhancements
 
-- Support for additional document formats such as PDF and DOCX
+- Support for additional document formats
 - Improved AI-based summarization accuracy
-- Advanced MCQ generation using better NLP models
+- Advanced MCQ generation 
 - User authentication and document history tracking
-- Enhanced user interface and experience
+- Enhanced user interface
 
 ## Author
 
