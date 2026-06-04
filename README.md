@@ -17,11 +17,11 @@ This project is designed to assist students and learners by simplifying complex 
 
 ## Technologies Used:
 
-- Python
-- Flask
-- HTML
-- CSS
-- JSON
+- [Python](https://www.python.org/)
+- [Flask](https://flask.palletsprojects.com/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JSON](https://www.json.org/)
 - NLP concepts
 
 ## Project Structure
