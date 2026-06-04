@@ -1,50 +1,65 @@
 # AI Reading Companion
+AI-Powered Reading Companion is a web-based application developed using Python and Flask that helps users read and understand digital documents more effectively. The system allows users to upload documents, extracts text from them, and provides multiple AI-based features to improve comprehension and learning.
 
-## Overview
+It integrates Natural Language Processing techniques to offer functionalities such as text summarization, language translation, text-to-speech conversion, vocabulary assistance,and MCQ generation. These features make reading more interactive, accessible, and learner-friendly.
+This project is designed to assist students and learners by simplifying complex content and improving engagement with digital reading materials.
 
-AI Reading Companion is a web-based application developed using Python and Flask to assist users in reading and understanding digital documents. The system extracts text from uploaded documents and provides multiple learning-support features to improve comprehension and accessibility.
+Features
+Document text extraction from uploaded files
+Text summarization
+Language translation
+Text-to-speech conversion
+Vocabulary assistance
+Automatic MCQ generation from content
 
-## Features
-
-* Document text extraction
-* Automatic text summarization
-* Language translation
-* Text-to-speech conversion
-* Vocabulary assistance
-* Multiple-choice question (MCQ) generation
-
-## Technologies Used
-
-* Python
-* Flask
-* HTML
-* CSS
-* JSON
+Technologies Used
+Python
+Flask
+HTML
+CSS
+JSON
+NLP concepts
 
 ## Project Structure
 
-* backend/
-* static/
-* templates/
-* dataset/
 * app.py
+* dataset/
+* templates/
 
-## How to Run
+  * index.html
+  * result.html
+* static/
 
-1. Install Python and required libraries.
-2. Run:
-   python app.py
-3. Open the application in your browser.
-4. Upload a document and use the available features.
+  * style.css
+* requirements.txt
+* README.md
+* .gitignore
 
-## Future Enhancements
 
-* Support for additional document formats.
-* Improved AI-based summarization.
-* Enhanced question generation.
-* User authentication and document history.
+How to Run
 
-## Author
+Install Python (3.x) and ensure it is added to system PATH
+Open terminal or command prompt in the project folder
+Install Flask using:
+pip install flask
+Install other required libraries 
+pip install <library-name>
+Run the application using:
+python app.py
+After running, check the terminal for the local server link
+Open the browser and go to:
+http://127.0.0.1:5000/
+Upload a document and use the features of the application
+
+Future Enhancements
+Support for additional document formats such as PDF and DOCX
+Improved AI-based summarization accuracy
+Advanced MCQ generation using better NLP models
+User authentication and document history tracking
+Enhanced user interface and experience
+
+Author
+Janani
 
 Janani
 
