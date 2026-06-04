@@ -14,7 +14,7 @@ This project is designed to assist students and learners by simplifying complex 
 -Automatic MCQ generation from content
 
 ## Technologies Used:
--Python
+- Python
 -Flask
 -HTML
 -CSS
