@@ -95,14 +95,40 @@ Reads only the selected range of lines.
 
 ## How to Run
 
-- Install Python (3.x) and ensure it is added to system PATH
-- Open terminal or command prompt in the project folder
-- Install Flask using pip install flask
-- Install all required dependencies listed in the project
-- Run the application using python app.py
-- After running, check the terminal for the local server link
-- Open a browser and go to http://127.0.0.1:5000/
-- Upload a document and use the available features of the application
+## How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/jananikookie/AI-Powered-Reading-Companion.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd AI-Powered-Reading-Companion
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Run the application:
+
+   ```bash
+   python app.py
+   ```
+
+5. Open your browser and visit:
+
+   ```
+   http://127.0.0.1:5000/
+   ```
+
+6. Upload a document and explore the AI-powered features.
+
 
 ## Future Enhancements
 
