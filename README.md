@@ -67,7 +67,7 @@ Reads the complete document using text-to-speech.
 
 ### Line Range Audio
 Reads only the selected range of lines.
-![Line-Range Audio](screenshots/Line-RangeAudio.png)
+![Line-Range Audio](screenshots/line-range-audio.png)
 
 
 ## Technologies Used:
