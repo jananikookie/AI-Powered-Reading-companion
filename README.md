@@ -11,6 +11,7 @@ This project is designed to assist students and learners by simplifying complex 
 - Document text extraction from uploaded files
 - Text summarization
 - Language translation
+- Line Range Reader
 - Text-to-speech conversion
 - Vocabulary assistance
 - MCQ generation from content
