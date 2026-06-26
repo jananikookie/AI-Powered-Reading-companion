@@ -78,7 +78,7 @@ Reads only the selected range of lines using text-to-speech.
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JSON](https://www.json.org/)
-- Natural Language Processing(NLP) concepts
+- Natural Language Processing (NLP) concepts
 
 ## Project Structure
 
@@ -87,7 +87,7 @@ Reads only the selected range of lines using text-to-speech.
 * templates/
   * index.html
   * result.html
-* Screenshots/
+* screenshots/
 * requirements.txt
 * README.md
 * .gitignore
