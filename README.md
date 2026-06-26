@@ -51,7 +51,7 @@ Translates the extracted text into the selected language.
 
 Provides meanings of difficult words and do pronounce to improve comprehension.
 
-![Vocabulary Assistance](screenshots/Vocabulary-Assisstance.png)
+![Vocabulary Assistance](screenshots/Vocabulary-Assistance.png)
 
 ### MCQ Generation
 
@@ -67,8 +67,8 @@ Reads the complete document using text-to-speech.
 
 ### Line Range Audio
 Reads only the selected range of lines.
+![Line-Range Audio](screenshots/Line-RangeAudio.png)
 
-![Line-Range Audio](screenshots/Line-Range Audio.png)
 
 ## Technologies Used:
 
