@@ -69,7 +69,6 @@ Reads the complete document using text-to-speech.
 Reads only the selected range of lines.
 ![Line-Range Audio](screenshots/line-range-audio.png)
 
-
 ## Technologies Used:
 
 - [Python](https://www.python.org/)
@@ -91,9 +90,6 @@ Reads only the selected range of lines.
 * requirements.txt
 * README.md
 * .gitignore
-
-
-## How to Run
 
 ## How to Run
 
@@ -128,7 +124,6 @@ Reads only the selected range of lines.
    ```
 
 6. Upload a document and explore the AI-powered features.
-
 
 ## Future Enhancements
 
