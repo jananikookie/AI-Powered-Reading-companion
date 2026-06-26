@@ -1,9 +1,9 @@
-# AI Reading Companion
+# AI-Powered Reading Companion
 ## Overview:
 
 AI-Powered Reading Companion is a web-based application developed using Python and Flask that helps users read and understand digital documents more effectively. The system allows users to upload documents, extracts text from them, and provides multiple AI-based features to improve comprehension and learning.
 
-It integrates Natural Language Processing techniques to offer functionalities such as text summarization, language translation, text-to-speech conversion, vocabulary assistance,and MCQ generation. These features make reading more interactive, accessible, and learner-friendly.
+It integrates Natural Language Processing techniques to offer functionalities such as text summarization, language translation, text-to-speech conversion, vocabulary assistance, and MCQ generation. These features make reading more interactive, accessible, and learner-friendly.
 This project is designed to assist students and learners by simplifying complex content and improving engagement with digital reading materials.
 
 ## Problem Statement
@@ -49,7 +49,7 @@ Translates the extracted text into the selected language.
 
 ### Vocabulary Assistance
 
-Provides meanings of difficult words and do pronounce to improve comprehension.
+Provides the meanings and pronunciation of difficult words to improve comprehension.
 
 ![Vocabulary Assistance](screenshots/Vocabulary-Assistance.png)
 
@@ -66,7 +66,9 @@ Reads the complete document using text-to-speech.
 ![Full Audio](screenshots/Full-Audio.png)
 
 ### Line Range Audio
-Reads only the selected range of lines.
+
+Reads only the selected range of lines using text-to-speech.
+
 ![Line-Range Audio](screenshots/line-range-audio.png)
 
 ## Technologies Used:
@@ -76,7 +78,7 @@ Reads only the selected range of lines.
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JSON](https://www.json.org/)
-- NLP concepts
+- Natural Language Processing(NLP) concepts
 
 ## Project Structure
 
@@ -85,8 +87,7 @@ Reads only the selected range of lines.
 * templates/
   * index.html
   * result.html
-* static/
-  * style.css
+* Screenshots/
 * requirements.txt
 * README.md
 * .gitignore
@@ -135,7 +136,7 @@ Reads only the selected range of lines.
 
 ## Author
 
-Janani
+**Janani**
 
 
 
