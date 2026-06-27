@@ -137,8 +137,4 @@ Reads only the selected range of lines using text-to-speech.
 ## Author
 
 **Janani**
-
-
-
-
-
+Computer Science Graduate
