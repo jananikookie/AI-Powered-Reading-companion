@@ -1,4 +1,11 @@
 # AI-Powered Reading Companion
+
+## Problem Statement
+
+Reading lengthy digital documents can be challenging, especially for students and learners who need to quickly understand complex information. Traditional reading methods often lack interactive features such as summarization, vocabulary support, translation, and audio assistance, making the learning process time-consuming and less engaging.
+
+This project addresses these challenges by providing an AI-powered reading companion that enhances document comprehension through intelligent features like text summarization, language translation, text-to-speech conversion, vocabulary assistance, line-range reading, and automatic MCQ generation, creating a more interactive and accessible reading experience.
+
 ## Overview:
 
 AI-Powered Reading Companion is a web-based application developed using Python and Flask that helps users read and understand digital documents more effectively. The system allows users to upload documents, extracts text from them, and provides multiple AI-based features to improve comprehension and learning.
@@ -82,15 +89,20 @@ Reads only the selected range of lines using text-to-speech.
 
 ## Project Structure
 
-* app.py
-* dataset/
-* templates/
-  * index.html
-  * result.html
-* screenshots/
-* requirements.txt
-* README.md
-* .gitignore
+```text
+AI-Powered-Reading-Companion/
+│
+├── dataset/
+├── screenshots/
+├── templates/
+│   ├── index.html
+│   └── result.html
+│
+├── app.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 
 ## How to Run
 
@@ -137,4 +149,5 @@ Reads only the selected range of lines using text-to-speech.
 ## Author
 
 **Janani**
+
 Computer Science Graduate
